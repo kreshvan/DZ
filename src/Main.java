@@ -11,7 +11,7 @@ public class Main {
                 }
 
 
-//задание #22
+//задание #22RE
                 int temperature = 6;
                 if (temperature <=5) {
                     System.out.println("На улице" + " "+ temperature + " "+"градусов, нужно надеть шапку.");
